@@ -14,4 +14,4 @@ def number_system(base10, user_base):
         return hex(base10)[2:]
 
 # Test the function
-print(number_system(100, 16)) # Output: 11110
+print(number_system(100, 16)) 
